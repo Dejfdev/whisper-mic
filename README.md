@@ -2,7 +2,7 @@
 
 A lightweight, native macOS global dictation tool built in Swift and SwiftUI with zero external dependencies.
 
-![WhisperMic HUD Preview](screenshots/hud.png)
+![WhisperMic HUD Preview](screenshots/whisper_mic_banner.png)
 
 WhisperMic allows you to record audio from your microphone using a global keyboard shortcut, transcribe it using OpenAI's Whisper API, and automatically paste the transcription into any active text field. It serves as a free, open-source, and privacy-friendly alternative to paid dictation utilities.
 
