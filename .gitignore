@@ -8,9 +8,10 @@
 *.o
 *.out
 /WhisperMic
-/snipflow/SnipFlow
 AppIcon.iconset/
-snipflow/AppIcon.iconset/
+
+# Exclude SnipFlow folder entirely (it has its own repository now)
+snipflow/
 
 # Local configuration and private tokens
 .agents/
