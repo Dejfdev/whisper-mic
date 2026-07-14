@@ -1,0 +1,18 @@
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build outputs
+*.app/
+*.o
+*.out
+/WhisperMic
+/snipflow/SnipFlow
+AppIcon.iconset/
+snipflow/AppIcon.iconset/
+
+# Local configuration and private tokens
+.agents/
+.env*
+mcp_config.json
